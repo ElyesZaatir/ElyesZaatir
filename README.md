@@ -12,7 +12,7 @@
 ---
 ## 🚀 About Me  
 
-💡 **Passionate Backend Developer** | 💻 **Tech Enthusiast** | 🔍 **Problem Solver**  
+💡 **Passionate Software Engineer** | 💻 **Tech Enthusiast** | 🔍 **Problem Solver**  
 
 - 🌱 Currently sharpening my skills in **high-performance backend architectures**.  
 - 🏗️ Building scalable, robust APIs & databases.  
