@@ -20,7 +20,6 @@
 - 🔐 Strong interest in **Software Engineering & Open Source Contributions**.  
 - 🚀 Always up for solving **challenging problems**.  
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&border=true&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ---
 
@@ -46,12 +45,3 @@
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50px">
   <img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="ESLint" width="50px">
 </p>
-
----
-
-## 📈 Contribution Graph  
-
-![Elyes Zaatir's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ElyesZaatir&theme=react-dark&hide_border=true&custom_title=GitHub%20Activity%20Graph)
-
-
----
